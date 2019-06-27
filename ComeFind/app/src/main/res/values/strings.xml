@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ComeBuy</string>
+    <string name="logo">logo</string>
+    <string name="google">google</string>
+    <string name="Google">Google</string>
+    <string name="login_with_google">Login with Google</string>
+
+    <string name="logout">logout</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="register">Register</string>
+    <string name="or">Or</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="ComeFind">come_find</string>
+    <string name="todo">TODO</string>
+</resources>
