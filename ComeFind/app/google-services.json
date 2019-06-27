@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130048073143",
+    "firebase_url": "https://comebuy-2eb77.firebaseio.com",
+    "project_id": "comebuy-2eb77",
+    "storage_bucket": "comebuy-2eb77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130048073143:android:c2e4260a7023602e",
+        "android_client_info": {
+          "package_name": "pro.comebuy.com.comebuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130048073143-eloi4kjshsr90v9pu6fif55t3fubnvvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pro.comebuy.com.comebuy",
+            "certificate_hash": "973fc5352f02d087c533584e3c8fb8e6c0a076e8"
+          }
+        },
+        {
+          "client_id": "130048073143-88fk1co1nj9c0o3tkej4ifdntpb4e173.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8iaPjPQxHalfktauDadShocbxvZfy7bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130048073143-88fk1co1nj9c0o3tkej4ifdntpb4e173.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
